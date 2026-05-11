@@ -1,5 +1,6 @@
-# 🏸 Badminton Smash Calculator
+# 🏸 SmashLab
 
+The online Labatory to improve your badminton smash!
 Ever wanted to know your badminton smash speed? How well do you stack up against the pros who hit the shuttle 500+ km/h? But you don't have a speed gun?
 Well this web tool solves that problem. Using advanced physics research, this tool will accurately measure your badminton smash speed through just a video and just real-time training insights aswell.
 
